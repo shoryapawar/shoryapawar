@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Backend Development 
-- :hourglass_flowing_sand:  Exploring DATA structures and
+- :hourglass_flowing_sand:  Exploring DATA structures and AWS .
 <!--
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
