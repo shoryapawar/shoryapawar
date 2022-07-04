@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="left">
  <abc>
-  <br>Hi there!👋 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm SHORYA PAWAR, Full Stack Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>*/-->
 
 <h2 align="left">:heart: Let's get connected:</h2>
-[![Twitter Badge](https://img.shields.io/badge/-@shoryapawar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/shoryapawar)
+[![Twitter Badge](https://img.shields.io/badge/-@shoryapawar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/shoryapawar)-->
