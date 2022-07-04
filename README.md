@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - :computer: I'm currently working on Backend Development 
 - :hourglass_flowing_sand:  Exploring DATA structures and
-<--
+<!--
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
@@ -53,6 +53,4 @@ Here are some ideas to get you started:
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>*/-->
 
 <h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/shoryapawar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoryapawar)](https://www.linkedin.com/in/shorya-pawar-7a174819a/) [![Twitter Badge](https://img.shields.io/badge/-@shoryapawar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/shoryapawar) [![Facebook Badge](https://img.shields.io/badge/-@shoryapawar?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shoryapawar)](https://www.instagram.com/shoryapawar)
-
+[![Twitter Badge](https://img.shields.io/badge/-@shoryapawar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/shoryapawar)
