@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Backend Development 
-- :hourglass_flowing_sand:  Learning DSA and React 18.
+- :computer: I'm currently Learning Competitive Programming.
 
 
 
